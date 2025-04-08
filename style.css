@@ -5,7 +5,11 @@ background-color:rgb(79, 133, 77);
 }
 .primeira-secao{
     width:360px;
-    height:294px;
+    height:581px;
     background-color:cadetblue;
     }
-    
+    .segunda-secao{
+        width:360px;
+        height:55px;
+        background-color:rgb(79, 133, 77);
+        }
