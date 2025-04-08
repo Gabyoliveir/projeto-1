@@ -13,11 +13,15 @@ background-color:rgb(79, 133, 77);
         height:43px;
         background-color:rgb(79, 133, 77);
         }
-        .terceira-secao{
-            width:360px;
-            height:239px;
-            background-color:rgb(95, 158, 160);
-            }
-
+.terceira-secao{
+ width:360px;
+height:239px;
+background-color:rgb(95, 158, 160);
+    }
+    .rodape{
+        width:360px;
+       height:53px;
+       background-color:rgb(79, 133, 77);
+           }
 
 
