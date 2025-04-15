@@ -7,6 +7,9 @@ background-color:rgb(79, 133, 77);
     width:360px;
     height:294px;
     background-color:cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     }
 .segunda-secao{
         width:360px;
